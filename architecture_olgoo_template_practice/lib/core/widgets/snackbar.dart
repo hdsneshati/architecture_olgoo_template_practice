@@ -87,4 +87,5 @@ class SnackBars {
       direction: TextDirection.rtl,
     );
   }
+  
 }
